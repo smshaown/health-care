@@ -1,0 +1,26 @@
+.services-container{
+    background-color: #e6f0ff;
+}
+.appointments-icon{
+    font-size: 50px;
+    padding: 30px;
+    color: #00E5CC;
+}
+.appointment-btn{
+    text-decoration: none;
+    background-color: #00E5CC;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.appointment-btn:hover{
+    color: white;
+}
+.service-btn{
+    text-decoration: none;
+    color:#00E5CC;
+    padding-left: 30px;
+}
+.service-btn:hover{
+    color: #00E5CC;
+}
